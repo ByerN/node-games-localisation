@@ -1,0 +1,101 @@
+game.button.lmb=LMB
+game.button.rmb=RMB
+game.button.mmb=MMB
+game.button.space=SPACE
+
+ui.mainmenu.play=Play
+ui.mainmenu.save=Saves
+ui.mainmenu.settings=Settings
+ui.mainmenu.exit=Exit
+ui.mainmenu.tutorials=Tutorials
+
+ui.settings.sfx=Sound Effects
+ui.settings.music=Music
+ui.settings.fullscreen=Fullscreen
+ui.settings.windowmode=Windowed
+ui.settings.borderless=Borderless
+ui.settings.grabspeed=Grab Speed
+ui.settings.zoomspeed=Zoom Speed
+ui.settings.screenpanning=Camera Panning
+ui.settings.keybindings=Controls
+
+ui.keybindings.mouse.1=Main Button
+ui.keybindings.mouse.2=Cancel
+ui.keybindings.mouse.3=Camera Movement
+ui.keybindings.pause=Pause
+ui.keybindings.photomode=Photo Mode
+ui.keybindings.aipainter=Smart Painting
+ui.keybindings.standardcursor=Standard Mode
+ui.keybindings.deletemode=Delete Mode
+ui.keybindings.eyedropper=Eyedropper Mode
+ui.keybindings.nodepainter=Node Painting
+ui.keybindings.connectionpainter=Connection Painting
+ui.keybindings.gridpainter=Group Painting
+ui.keybindings.rotation=Rotate
+ui.keybindings.flipV=Flip Vertically
+ui.keybindings.flipH=Flip Horizontally
+ui.keybindings.copy=Copy
+ui.keybindings.paste=Paste
+ui.keybindings.cut=Cut
+ui.keybindings.undo=Undo
+ui.keybindings.redo=Redo
+ui.keybindings.specialbutton1=Special Button 1
+ui.keybindings.specialbutton2=Special Button 2
+
+ui.toolbar.hints.deletemode=Delete Mode - drag the cursor to remove selected elements.
+ui.toolbar.hints.aipainter=Smart Painting - click a node (in the shop or on the board) to select it and paint with it. {} deselects. If a node is not selected in the shop, you can select by dragging {} across the board or remove using {}.
+ui.toolbar.hints.islandremoval=Island Removal - you can remove a purchased island and place it again. The most recently deleted island will be the first to be placed.
+ui.toolbar.hints.gridpainter=Group Painting - drag on the board to paint a group of nodes selected in the shop.
+ui.toolbar.hints.eyedropper=Eyedropper Mode - click a node on the board to automatically select it in the shop (if available).
+ui.toolbar.hints.nodepainter=Node Painting - drag across the board to paint a row of nodes. If “Auto-connection” is enabled, the painted nodes will automatically connect.
+ui.toolbar.hints.connectionpainter=Connection Painting - drag across nodes to paint a connection between them.
+ui.toolbar.hints.autoconnections=Auto-connection - pasting and painting nodes will attempt to automatically connect nodes of the same type if it makes sense.
+ui.toolbar.hints.hintsenabled=Hints - enables/disables pop-up tips.
+
+ui.tutorial.1=Drag the "1" node from the shop onto the board using {}. You can use {} to move camera. If you don't like screen panning, you can disable it in the settings.
+ui.tutorial.2=Quickly drag {} from a placed node onto a node with "=" to connect them. If you hold longer, you’ll lift the node (grab speed can be changed in settings).
+ui.tutorial.3=Place more "1" nodes to produce more resources (numbers). When you deliver enough resources to the target island, click the blinking marker to level it up. Each level-up changes the goal and some other things you’ll learn about later. If you don't like drag and drop - feel free to check out available tools in the toolbar (bottom-left). They will make your life easier :)
+ui.tutorial.4=Dragging {} on an empty area lets you enter selection mode. Select nodes, copy ({}), and paste ({}). Add and connect a "+" node to create resource "2" from two ones. Use "Delete Mode" if you want to delete something (from the toolbar - bottom-left).
+ui.tutorial.5=Use the same method as before to produce resource "3".
+ui.tutorial.6=Same with "5". The higher the island’s level, the faster it will consume delivered resources, so build longer rows of production nodes.
+ui.tutorial.7=Unlock the multiplication node. Delivering goal-matching resources to the target island earns you money. The currency depends on the target island.
+ui.tutorial.8=Unlock a new island and place it on the board to get more space. The cost of upgrades will increase, but you’ll earn more and find better upgrades over time.
+ui.tutorial.9=Now unlock the "2" node.
+ui.tutorial.10=If you drag a node from the shop onto previously selected nodes on the board, they will be replaced with the one from the shop.
+ui.tutorial.11=Take a look at the tools in the toolbar. There are some very useful ones there. All keybindings can be changed in the settings!
+ui.tutorial.12=Time to unlock a special island. Special islands have nodes that modify resources passing through them. For example, "a+1" adds 1 to each resource, and "ax4" multiplies each number by 4. One such special node replaces an entire row of production nodes - so yeah, it’s worth using. There’s also a bridge that ignores connection collisions.
+ui.tutorial.13=Your earnings per delivered resource ($/R) come from the formula shown on the island. It includes coefficients (A, B, C) you can upgrade with money and the level of the target island. More ways to increase income will appear later.
+ui.tutorial.14=Remember to use special islands. At first, you might keep up using only empty islands, but that’s not very efficient - especially later on.
+ui.tutorial.15=AI Mode is one of my favorites. Instead of toggling it on, you can also hold {} to quickly paint something.
+ui.tutorial.16=It might not be obvious - but previously purchased islands can be deleted and placed again wherever you want. Check the toolbar!
+ui.tutorial.17=Remember to use auto-connection if you need it!
+
+ui.onhover.quizisland=Quiz islands where you can earn extra money. You can also place nodes along their edges. They’ll gain more interesting features later.
+ui.onhover.additionaltunnels=Adds tunnels to special islands. Each upgrade adds 2 tunnels of a given color. They appear randomly instead of walls when deleting/adding an island. If there are already enough on the board, they won’t appear - you need to delete the old ones. Each resource send to a tunnel will appear on another tunnel of the same color.
+ui.onhover.additionalbridges=Adds extra bridges to special islands. Each upgrade adds several bridges depending on the upgrade number. They appear randomly instead of walls when deleting/adding an island. If there are already enough on the board, they won’t appear - you need to delete the old ones.
+ui.onhover.blueprintisland=Testing island. You can test formulas here when you run out of space on the board.
+ui.onhover.specialislands=Special islands have nodes that modify resources passing through them. For example, "a+1" adds 1 to each resource, and "ax4" multiplies each number by 4. One such special node replaces an entire row of production nodes - so yeah, it’s worth using. There’s also a bridge that ignores connection collisions.
+ui.onhover.abcplus=This upgrade increases the parameter values from previous islands.
+ui.onhover.screenPanning=If enabled, you can move the camera by moving the mouse cursor to the edge of the screen.
+ui.onhover.grabspeed=The higher the value, the faster the node will be picked up when you hold it using {}
+ui.onhover.tutorials=If you don't know how to play the game, you may also check out tutorial videos!
+ui.onhover.buynewnode=This powerup unlocks new nodes.
+ui.onhover.buynewisland=This powerup unlocks new empty islands.
+ui.onhover.dollar1SlashR="$" - is your money (differs depending on the goal island). "$/R" - means how much you earn per each correct number (resource) provided to the goal island, and "$/s" means how much you earn per second.
+ui.onhover.speedUp=Speeds up production nodes.
+ui.onhover.quizupgrade=Quiz Island upgrade - if you unlock it, everytime you win a quiz, you will get a temporary income boost. For each such upgrade, you will get more boosts per quiz island and more rerolls.
+ui.onhover.quizislandpausehint=Adds pause button to quiz islands. You can use it to stop counter when you have the best multipliers!
+ui.onhover.captionsDlc=I created Node Math with the idea that mathematics is a universal language for anyone who understands it. That’s why the game doesn’t include translations by default - only visual cues and math itself. However, I know that not everyone wants to play this way, or that some things might feel unintuitive. That’s why an official free DLC has been included with the game, allowing you to enable subtitles in selected languages (more translations may be added soon).
+
+
+ui.tutorials.basiccontrols=Controls Basics
+ui.tutorials.magictool=Smart Painting
+ui.tutorials.specialislands=Special Islands
+ui.tutorials.income1=Income #1
+ui.tutorials.income2=Income #2
+
+ui.endgame.thanks.1=Congratulations!
+ui.endgame.thanks.2=I am so proud of you!
+ui.endgame.thanks.3=(Endless Mode unlocked)
+
+language.name=English

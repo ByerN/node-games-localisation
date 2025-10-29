@@ -1,0 +1,2 @@
+eng,english,Lato-Bold.ttf
+pol,polish,Lato-Bold.ttf

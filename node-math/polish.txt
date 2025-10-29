@@ -1,0 +1,104 @@
+game.button.lmb=LPM
+game.button.rmb=PPM
+game.button.mmb=ŚPM
+game.button.space=Spacja
+
+ui.mainmenu.play=Graj
+ui.mainmenu.save=Zapisy
+ui.mainmenu.settings=Ustawienia
+ui.mainmenu.exit=Wyjście
+ui.mainmenu.tutorials=Samouczki
+
+ui.settings.sfx=Efekty Dźwiękowe
+ui.settings.music=Muzyka
+ui.settings.fullscreen=Pełny Ekran
+ui.settings.windowmode=Okno
+ui.settings.borderless=Bez Ramek
+ui.settings.grabspeed=Szybkość Chwytania
+ui.settings.zoomspeed=Szybkość Oddalania
+ui.settings.screenpanning=Przesuwanie Kamery Myszką
+ui.settings.keybindings=Sterowanie
+
+ui.keybindings.mouse.1=Przycisk Główny
+ui.keybindings.mouse.2=Anulowanie
+ui.keybindings.mouse.3=Poruszanie kamerą
+ui.keybindings.pause=Pauza
+ui.keybindings.photomode=Tryb Zdjęciowy
+ui.keybindings.aipainter=Inteligentne Malowanie
+ui.keybindings.standardcursor=Tryb Standardowy
+ui.keybindings.deletemode=Tryb Usuwania
+ui.keybindings.eyedropper=Tryb Pipety
+ui.keybindings.nodepainter=Malowanie Węzłów
+ui.keybindings.connectionpainter=Malowanie Połączeń
+ui.keybindings.gridpainter=Malowanie Grup
+ui.keybindings.rotation=Obrót
+ui.keybindings.flipV=Odbicie w pionie
+ui.keybindings.flipH=Odbicie w poziomie
+ui.keybindings.copy=Kopiowanie
+ui.keybindings.paste=Wklejanie
+ui.keybindings.cut=Wycinanie
+ui.keybindings.undo=Cofanie
+ui.keybindings.redo=Ponawianie
+ui.keybindings.specialbutton1=Klawisz Specjalny 1
+ui.keybindings.specialbutton2=Klawisz Specjalny 2
+
+ui.toolbar.hints.deletemode=Tryb Usuwania - przeciągnij kursorem żeby usunąć zaznaczone elementy.
+ui.toolbar.hints.aipainter=Inteligentne malowanie - kliknij na węzeł (w sklepie lub na planszy), żeby go wybrać i móc nim malować. {} cofa zaznaczenie. Jeśli węzeł nie jest zaznaczony w sklepie, możesz zaznaczać przeciągając {} po planszy lub usuwać używając {}. 
+ui.toolbar.hints.islandremoval=Usuwanie Wysp - możesz usunąć kupioną wyspę i położyć ją ponownie. Ostatnio skasowana wyspa, będzie pierwszą do postawienia.
+ui.toolbar.hints.gridpainter=Malowanie Grup - przeciągnij na planszy żeby namalować grupę wybranych w sklepie węzłów.
+ui.toolbar.hints.eyedropper=Tryb Pipety - możesz kliknąć na węzeł na planszy by automatycznie wybrał się w sklepie (o ile tam jest)
+ui.toolbar.hints.nodepainter=Malowanie Węzłów - przeciągnij po planszy żeby namalować rząd węzłów. Jeśli "Auto-połączenie" jest włączone, to namalowane w ten sposób węzły same się połączą.
+ui.toolbar.hints.connectionpainter=Malowanie Połączeń - przeciągnij po węzłach, żeby namalować między nimi połączenie.
+ui.toolbar.hints.autoconnections=Auto-połączenie - wklejanie i malowanie węzłów będzie próbowało automatycznie połączyć węzły tego samego typu jeśli ma to sens.
+ui.toolbar.hints.hintsenabled=Wskazówki - włącza/wyłącza wyskakujące okienka.
+
+
+ui.tutorial.1=Przeciągnij węzeł "1" ze sklepu na planszę używając {}. Możesz poruszać kamerą przyciskiem: {}. Jeśli nie lubisz przesuwania kamery myszką (na krawędziach) - możesz to wyłączyć w ustawieniach gry.
+ui.tutorial.2=Przeciągnij szybko {} z położonego węzła na węzeł z "=" żeby je połączyć. Jeśli przytrzymasz dłużej to podniesiesz węzeł (ustawienie szybkości łapania można zmienić w ustawieniach).
+ui.tutorial.3=Połóż więcej węzłów "1" żeby produkować więcej zasobów (liczb). Jak do wyspy celu dostarczysz wystarczająco dużo zasobów, to kliknij na migający znacznik by podnieść jej poziom. Każde podniesienie poziomu zmienia cel i kilka innych rzeczy, o których dowiesz się później. Jeśli nie lubisz przeciągać węzłów jeden po drugim, zajrzyj na dostępne narzędzia w przyborniku (lewy-dolny róg ekranu). Ułatwiają życie :)
+ui.tutorial.4=Przeciągając {} na pustym obszarze możesz wejść w tryb zaznaczania. Zaznacz węzły, skopiuj ({}) i wklej ({}). Dodaj i podłącz węzeł "+", żeby stworzyć zasób "2" z dwóch jedynek. Jeśli chcesz coś usunąć, spróbuj użyć trybu usuwania (z przybornika na dole po lewej).
+ui.tutorial.5=Użyj tej samej metody co wcześniej by wytwarzać zasób "3".
+ui.tutorial.6=To samo z "5". Im wyższy poziom wyspy, tym szybciej będzie pożerać dostarczone zasoby, więc ustaw odpowiednio długie rzędy węzłów produkcyjnych.
+ui.tutorial.7=Odblokuj węzeł mnożenia. Dostarczając zgodne z celem zasoby do wyspy celu zarabiasz pieniądze. Waluta będzie się różnić zależnie od wyspy celu.
+ui.tutorial.8=Odblokuj nową wyspę i połóż ją na planszy by zdobyć więcej miejsca. Cena kolejnych ulepszeń będzie rosnąć, ale będziesz z czasem więcej zarabiać i znajdować lepsze ulepszenia.
+ui.tutorial.9=A teraz odblokuj węzeł "2".
+ui.tutorial.10=Jeśli przeciągniesz ze sklepu jakiś węzeł na zaznaczone wcześniej węzły na planszy, to podmienią się na ten ze sklepu.
+ui.tutorial.11=Przyjrzyj się narzędziom w przyborniku. Jest tam kilka bardzo przydatnych. Skróty klawiszowe możesz zmienić w ustawieniach!
+ui.tutorial.12=Czas odblokować specjalną wyspę. Na specjalnych wyspach znajdują się węzły zmieniające przechodzący przez nie zasób. Np "a+1" doda do każdego zasobu 1, a "ax4" przemnoży każdą liczbę przez 4. Jeden taki specjalny węzeł zastępuje cały wiersz węzłów produkcyjnych, więc no, warto tego używać. Jest tam też most, który ignoruje kolizję połączeń. 
+ui.tutorial.13=To ile zarabiasz pieniędzy per dostarczony zasób ($/R) wynika ze wzoru widocznego na wyspie. W jego skład wchodzą współczynniki (A, B, C), które możesz zwiększać za pieniądze oraz poziom wyspy celu. Później dojdzie jeszcze kilka ciekawych sposobów na zwiększanie dochodu.
+ui.tutorial.14=Pamiętaj, żeby używać specjalnych wysp. Na początku może i się uda nadążyć za wymaganiami używając samych pustych wysp, no ale nie jest to zbyt efektywne. Zwłaszcza na późniejszych etapach.
+ui.tutorial.15=Tryb AI to jeden z moich ulubionych trybów. Zamiast go włączać, możesz też przytrzymać {} by coś tam namalować na szybko.
+ui.tutorial.16=Może to nie jest oczywiste - ale kupione wcześniej wyspy można usuwać i kłaść ponownie gdzie chcesz. Przejrzyj przybornik z narzędziami!
+ui.tutorial.17=Pamiętaj żeby używać auto-połączenia jeśli go potrzebujesz!
+
+
+
+ui.onhover.quizisland=Wyspy z zagadkami, na których możesz sobie dorobić. Możesz też kłaść na ich krawędziach węzły. Na późniejszych etapach dojdzie im kilka ciekawych funkcji.
+ui.onhover.additionaltunnels=Dodaje tunele do specjalnych wysp. Każde kolejne ulepszenie dodaje po 2 tunele danego koloru. Pojawiają się losowo zamiast murów gdy kasujesz/dodajesz wyspę. Jeśli już jest wystarczająca liczba na planszy, to się nie pojawią - trzeba skasować te stare. Każdy zasób, przechodzący przez tunel wyjdzie przez inny tunel tego samego koloru.
+ui.onhover.additionalbridges=Dodaje dodatkowe mosty do specjalnych wysp. Każde kolejne ulepszenie dodaje kilka mostów zależnie od liczby na ulepszeniu. Pojawiają się losowo zamiast murów gdy kasujesz/dodajesz wyspę. Jeśli już jest ich wystarczająca liczba na planszy, to się nie pojawią - trzeba skasować te stare.
+ui.onhover.blueprintisland=Wyspa do testowania. Możesz sobie posprawdzać tutaj wzory gdy nie masz miejsca na planszy.
+ui.onhover.specialislands=Na specjalnych wyspach znajdują się węzły zmieniające przechodzący przez nie zasób. Np "a+1" doda do każdego zasobu 1, a "ax4" przemnoży każdą liczbę przez 4. Jeden taki specjalny węzeł zastępuje cały wiersz węzłów produkcyjnych, więc no, warto tego używać. Jest tam też most, który ignoruje kolizję połączeń. 
+ui.onhover.abcplus=To ulepszenie zwiększa wartości parametrów z poprzednich wysp. 
+ui.onhover.screenPanning=Jeśli to włączysz to będziesz mógł przesuwać kamerę przesuwając kursor myszy na krawędź ekranu.
+ui.onhover.grabspeed=Im wyższa wartość tym szybciej węzeł zostanie podniesiony gdy przytrzymasz go używając {}
+ui.onhover.tutorials=Jeśli nie wiesz jak grać w tą grę, możesz obejrzeć tutoriale!
+ui.onhover.buynewnode=To ulepszenie odblokowuje nowe węzły.
+ui.onhover.buynewisland=To ulepszenie odblokowuje nowe puste wyspy.
+ui.onhover.dollar1SlashR="$" - mówi o tym ile masz pieniędzy (waluta na każdej wyspie celu jest inna). "$/R" - oznacza ile zarabiasz za poprawnie dostarczoną liczbę (zasób), a "$/s" ile zarabiasz na sekundę.
+ui.onhover.speedUp=Przyspiesza węzły produkcyjne.
+ui.onhover.quizupgrade=Ulepszenie wysp z zagadkami. Jeśli je odblokujesz, to za każdym razem gdy rozwiążesz zagadkę dostaniesz tymczasowe zwiększenie zdobywania pieniędzy. Za każde ulepszenie zdobywasz więcej takich usprawnień na wyspę zagadek oraz dodatkową możliwość kolejnego losowania.
+ui.onhover.quizislandpausehint=Dodaje przycisk pauzy do wysp z zagadkami. Możesz go używać by zatrzymać odliczanie gdy masz najlepiej dobrane mnożniki!
+ui.onhover.captionsDlc=Stworzyłem Node Math z myślą, że matematyka jest uniwersalnym językiem dla każdego kto ją zna, stąd w grze domyślnie nie ma tłumaczeń, a jedynie podpowiedzi wizualne i matematyka. Wiem jednak, że nie każdy chce grać w ten sposób, lub niektóre rzeczy mogą być nieintuicyjne, dlatego do gry został dołączony oficjalny dodatek dodający napisy w wybranych językach (więcej tłumaczeń może pojawić się wkrótce). 
+
+
+ui.tutorials.basiccontrols=Podstawy Sterowania
+ui.tutorials.magictool=Inteligentne Malowanie
+ui.tutorials.specialislands=Wyspy Specjalne
+ui.tutorials.income1=Zarabianie #1
+ui.tutorials.income2=Zarabianie #2
+
+ui.endgame.thanks.1=Gratulacje!
+ui.endgame.thanks.2=Jestem z Ciebie dumny!
+ui.endgame.thanks.3=(Odblokowano tryb nieskończoności)
+
+language.name=polski
