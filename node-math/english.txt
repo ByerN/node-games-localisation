@@ -48,7 +48,7 @@ ui.toolbar.hints.islandremoval=Island Removal - you can remove a purchased islan
 ui.toolbar.hints.gridpainter=Group Painting - drag on the board to paint a group of nodes selected in the shop.
 ui.toolbar.hints.eyedropper=Eyedropper Mode - click a node on the board to automatically select it in the shop (if available).
 ui.toolbar.hints.nodepainter=Node Painting - drag across the board to paint a row of nodes. If “Auto-connection” is enabled, the painted nodes will automatically connect.
-ui.toolbar.hints.connectionpainter=Connection Painting - drag across nodes to paint a connection between them.
+ui.toolbar.hints.connectionpainter=Connection Painting - drag on the board to use. All nodes in the selection area will be connected if they are in the same row/column (depending on the arrow direction). Use {} to delete selected connections.
 ui.toolbar.hints.autoconnections=Auto-connection - pasting and painting nodes will attempt to automatically connect nodes of the same type if it makes sense.
 ui.toolbar.hints.hintsenabled=Hints - enables/disables pop-up tips.
 

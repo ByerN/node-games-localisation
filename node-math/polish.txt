@@ -48,7 +48,7 @@ ui.toolbar.hints.islandremoval=Usuwanie Wysp - możesz usunąć kupioną wyspę 
 ui.toolbar.hints.gridpainter=Malowanie Grup - przeciągnij na planszy żeby namalować grupę wybranych w sklepie węzłów.
 ui.toolbar.hints.eyedropper=Tryb Pipety - możesz kliknąć na węzeł na planszy by automatycznie wybrał się w sklepie (o ile tam jest)
 ui.toolbar.hints.nodepainter=Malowanie Węzłów - przeciągnij po planszy żeby namalować rząd węzłów. Jeśli "Auto-połączenie" jest włączone, to namalowane w ten sposób węzły same się połączą.
-ui.toolbar.hints.connectionpainter=Malowanie Połączeń - przeciągnij po węzłach, żeby namalować między nimi połączenie.
+ui.toolbar.hints.connectionpainter=Malowanie Połączeń - przeciągnij po planszy by użyć. Wszystkie węzły w obszarze zaznaczenia zostaną połączone jeśli są w tym samym wierszu lub kolumnie (zależnie od kierunku strzałki na zaznaczeniu). Użyj {} by usuwać tylko połączenia.
 ui.toolbar.hints.autoconnections=Auto-połączenie - wklejanie i malowanie węzłów będzie próbowało automatycznie połączyć węzły tego samego typu jeśli ma to sens.
 ui.toolbar.hints.hintsenabled=Wskazówki - włącza/wyłącza wyskakujące okienka.
 
