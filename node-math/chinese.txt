@@ -1,0 +1,103 @@
+game.button.lmb=鼠标左键
+game.button.rmb=鼠标右键
+game.button.mmb=鼠标中键
+game.button.space=空格键
+
+ui.mainmenu.play=开始游戏
+ui.mainmenu.save=存档
+ui.mainmenu.settings=设置
+ui.mainmenu.exit=退出
+ui.mainmenu.tutorials=教程
+
+ui.settings.sfx=音效
+ui.settings.music=音乐
+ui.settings.fullscreen=全屏
+ui.settings.windowmode=窗口模式
+ui.settings.borderless=无边框
+ui.settings.grabspeed=拾取速度
+ui.settings.zoomspeed=缩放速度
+ui.settings.screenpanning=镜头移动
+ui.settings.keybindings=键位设置
+
+ui.keybindings.mouse.1=主按钮
+ui.keybindings.mouse.2=取消
+ui.keybindings.mouse.3=移动镜头
+ui.keybindings.pause=暂停
+ui.keybindings.photomode=拍照模式
+ui.keybindings.aipainter=智能绘制
+ui.keybindings.standardcursor=标准模式
+ui.keybindings.deletemode=删除模式
+ui.keybindings.eyedropper=取色器模式
+ui.keybindings.nodepainter=节点绘制
+ui.keybindings.connectionpainter=连接绘制
+ui.keybindings.gridpainter=群组绘制
+ui.keybindings.rotation=旋转
+ui.keybindings.flipV=垂直翻转
+ui.keybindings.flipH=水平翻转
+ui.keybindings.copy=复制
+ui.keybindings.paste=粘贴
+ui.keybindings.cut=剪切
+ui.keybindings.undo=撤销
+ui.keybindings.redo=重做
+ui.keybindings.specialbutton1=特殊按钮 1
+ui.keybindings.specialbutton2=特殊按钮 2
+
+ui.toolbar.hints.deletemode=删除模式 - 拖拽光标以移除选中的元素。
+ui.toolbar.hints.aipainter=智能绘制 - 点击商店或面板上的一个节点以选中并用它进行绘制。{} 用于取消选中。如果商店中未选中节点，您可以通过在面板上拖拽 {} 来选中，或使用 {} 来移除。
+ui.toolbar.hints.islandremoval=岛屿移除 - 您可以移除一个已购买的岛屿并重新放置。最近删除的岛屿将优先被放置。
+ui.toolbar.hints.gridpainter=群组绘制 - 在面板上拖拽，以绘制在商店中选中的一组节点。
+ui.toolbar.hints.eyedropper=取色器模式 - 点击面板上的一个节点，以自动在商店中选中它（如果可用）。
+ui.toolbar.hints.nodepainter=节点绘制 - 在面板上拖拽以绘制一排节点。如果启用了“自动连接”，绘制的节点将自动连接。
+ui.toolbar.hints.connectionpainter=连接绘制 - 在节点上拖拽，以在它们之间绘制连接。
+ui.toolbar.hints.autoconnections=自动连接 - 粘贴和绘制节点时，如果逻辑合理，将尝试自动连接同类节点。
+ui.toolbar.hints.hintsenabled=提示 - 启用/禁用弹出式提示。
+
+ui.tutorial.1=使用 {} 将商店中的 "1" 节点拖到面板上。如果你无法放置节点，说明你正试图将它放在不允许的位置。
+ui.tutorial.2=快速拖拽 {} 从一个已放置的节点到带有 "=" 的节点上以连接它们。如果你按住时间更长，则会拾起节点（拾取速度可在设置中更改）。
+ui.tutorial.3=放置更多 "1" 节点以生产更多资源（数字）。当你向目标岛屿输送了足够的资源后，点击闪烁的标记使其升级。每次升级都会改变目标，并且你之后会了解到一些其他变化。如果你不喜欢拖放操作——不妨试试工具栏（左下角）中的可用工具，它们会让你的操作更轻松 :)
+ui.tutorial.4=在空白区域拖拽 {} 可进入选择模式。选择节点，复制（{}），然后粘贴（{}）。添加并连接一个 "+" 节点，用两个 "1" 生成资源 "2"。如果你想删除某些东西，请使用“删除模式”（在工具栏 - 左下角）。
+ui.tutorial.5=使用之前的方法生成资源 "3"。
+ui.tutorial.6=生成 "5" 的方法相同。岛屿等级越高，消耗输送来的资源的速度就越快，因此需要建造更长的生产节点链。
+ui.tutorial.7=解锁乘法节点。向目标岛屿输送与目标匹配的资源可以赚钱。货币种类取决于目标岛屿。
+ui.tutorial.8=解锁一个新岛屿并将其放置在面板上以获得更多空间。升级成本会增加，但随着时间的推移，你的收入也会增加，并找到更好的升级项。
+ui.tutorial.9=现在解锁 "2" 节点。
+ui.tutorial.10=如果你将节点从商店拖到面板上先前选中的节点上，它们将被商店中的节点替换。
+ui.tutorial.11=看看工具栏中的工具，那里有一些非常有用的功能。所有的键位都可以在设置中更改！
+ui.tutorial.12=是时候解锁一个特殊岛屿了。特殊岛屿拥有能修改流过资源的节点。例如，"a+1" 给每个资源加 1，"ax4" 将每个数字乘以 4。一个这样的特殊节点可以取代一整排生产节点——所以，是的，值得使用。还有一种可以忽略连接冲突的桥接器。
+ui.tutorial.13=你每输送一个资源所获得的收益（$/R）来自岛上显示的公式。它包括你可以用金钱升级的参数（A, B, C）以及目标岛屿的等级。之后会出现更多增加收入的方法。
+ui.tutorial.14=记得使用特殊岛屿。起初，你或许仅靠空岛也能应付，但那并不高效——尤其是在游戏后期。
+ui.tutorial.15=AI模式是我最喜欢的模式之一。除了切换开启，你也可以按住 {} 来快速绘制某些东西。
+ui.tutorial.16=这可能不明显——但之前购买的岛屿可以被删除并随意重新放置。去工具栏看看吧！
+ui.tutorial.17=如果需要，记得使用自动连接功能！
+
+ui.onhover.quizisland=可以赚取额外金钱的问答岛屿。你也可以沿着其边缘放置节点。它们后续将获得更有趣的功能。
+ui.onhover.additionaltunnels=为特殊岛屿增加隧道。每次升级增加 2 条指定颜色的隧道。它们在删除/添加岛屿时会随机替代墙壁出现。如果面板上已有足够多的隧道，则不会出现——你需要删除旧的。每个送入隧道的资源会从另一个同色隧道出现。
+ui.onhover.additionalbridges=为特殊岛屿增加额外的桥梁。每次升级会根据升级编号增加若干桥梁。它们在删除/添加岛屿时会随机替代墙壁出现。如果面板上已有足够多的桥梁，则不会出现——你需要删除旧的。
+ui.onhover.blueprintisland=测试岛屿。当面板空间不足时，你可以在这里测试公式。
+ui.onhover.specialislands=特殊岛屿拥有能修改流过资源的节点。例如，"a+1" 给每个资源加 1，"ax4" 将每个数字乘以 4。一个这样的特殊节点可以取代一整排生产节点——所以，是的，值得使用。还有一种可以忽略连接冲突的桥接器。
+ui.onhover.abcplus=此升级会提高之前岛屿的参数值。
+ui.onhover.screenPanning=如果启用，您可以通过将鼠标光标移动到屏幕边缘来移动镜头。
+ui.onhover.grabspeed=此数值越高，当你使用 {} 按住节点时，它被拾起的速度就越快。
+ui.onhover.tutorials=如果您不知道如何游戏，您也可以查看教程视频！
+ui.onhover.buynewnode=此强化项用于解锁新节点。
+ui.onhover.buynewisland=此强化项用于解锁新的空岛屿。
+ui.onhover.dollar1SlashR="$" - 是你的金钱（根据目标岛屿不同而不同）。"$/R" - 表示你为目标岛屿提供的每个正确数字（资源）所赚取的金额，而"$/s"表示你每秒赚取的金额。
+ui.onhover.speedUp=加速生产节点。
+ui.onhover.quizupgrade=问答岛屿升级 - 如果解锁，每次你赢得问答，都会获得一个临时收入加成。每进行一次此类升级，你从每个问答岛屿获得的加成次数和重新掷骰次数都会增加。
+ui.onhover.quizislandpausehint=为问答岛屿添加暂停按钮。当你有最佳倍率时，可以用它来停止计数器！
+ui.onhover.captionsDlc=我创建《Node Math》的初衷是，数学对于理解它的人来说是一种通用语言。
+这就是为什么游戏默认不包含翻译——只有视觉提示和数学本身。
+然而，我知道并非所有人都想以这种方式游戏，或者有些东西可能感觉不直观。
+因此，游戏包含了一个官方免费DLC，允许您以选定语言启用字幕（未来可能会添加更多翻译）。
+
+ui.tutorials.basiccontrols=操作基础
+ui.tutorials.magictool=智能绘制
+ui.tutorials.specialislands=特殊岛屿
+ui.tutorials.income1=收益 #1
+ui.tutorials.income2=收益 #2
+
+ui.endgame.thanks.1=恭喜你！
+ui.endgame.thanks.2=我为你感到骄傲！
+ui.endgame.thanks.3=（无限模式已解锁）
+
+language.name=简体中文
