@@ -1,3 +1,4 @@
 eng,english,Lato-Bold.ttf
 pol,polish,Lato-Bold.ttf
 zho,chinese,NotoSansSC-Bold.otf
+ger,german,Lato-Bold.ttf
