@@ -1,0 +1,101 @@
+game.button.lmb=Linke Maustaste
+game.button.rmb=Rechte Maustaste
+game.button.mmb=Mittlere Maustaste
+game.button.space=Leertaste
+
+ui.mainmenu.play=Spielen
+ui.mainmenu.save=Speichern
+ui.mainmenu.settings=Einstellungen
+ui.mainmenu.exit=Beenden
+ui.mainmenu.tutorials=Anleitungen
+
+ui.settings.sfx=Soundeffekte
+ui.settings.music=Musik
+ui.settings.fullscreen=Vollbild
+ui.settings.windowmode=Fenstermodus
+ui.settings.borderless=Rahmenlos
+ui.settings.grabspeed=Greifgeschwindigkeit
+ui.settings.zoomspeed=Zoomgeschwindigkeit
+ui.settings.screenpanning=Rand-Scrollen
+ui.settings.keybindings=Controler
+
+ui.keybindings.mouse.1=Aktionsknopf
+ui.keybindings.mouse.2=Abbruch
+ui.keybindings.mouse.3=Kamerabewegung
+ui.keybindings.pause=Pause
+ui.keybindings.photomode=Fotomodus
+ui.keybindings.aipainter=KI-Modus
+ui.keybindings.standardcursor=Standard Modus
+ui.keybindings.deletemode=Löschmodus
+ui.keybindings.eyedropper=Pipette
+ui.keybindings.nodepainter=Knoten zeichnen
+ui.keybindings.connectionpainter=Verbindungen zeichnen
+ui.keybindings.gridpainter=Gruppe zeichnen
+ui.keybindings.rotation=Rotatieren
+ui.keybindings.flipV=Flip Vertical
+ui.keybindings.flipH=Flip Horizontal
+ui.keybindings.copy=Kopieren
+ui.keybindings.paste=Einfügen
+ui.keybindings.cut=Ausschneiden
+ui.keybindings.undo=Rückgängig
+ui.keybindings.redo=Wiederholen
+ui.keybindings.specialbutton1=Sonderknopf 1
+ui.keybindings.specialbutton2=Sonderknopf 2
+
+ui.toolbar.hints.deletemode=Löschmodus - Löschmodus – Ziehe den Cursor, um die ausgewählten Elemente zu entfernen.
+ui.toolbar.hints.aipainter=Intelligentes Zeichnen – Klicke auf einen Knoten (im Shop oder auf dem Spielbrett), um ihn auszuwählen und damit zu zeichnen. {} hebt die Auswahl auf. Ist ein Knoten im Shop nicht ausgewählt, kannst du ihn durch Ziehen von {} über das Spielbrett auswählen oder mit {} entfernen.
+ui.toolbar.hints.islandremoval=Inselentfernung – Du kannst eine gekaufte Insel entfernen und erneut platzieren. Die zuletzt gelöschte Insel wird als erste wieder platziert.
+ui.toolbar.hints.gridpainter=Gruppe zeichnen – Ziehen auf dem Spielfeld, um eine Gruppe von im Shop ausgewählten Knoten zu zeichnen.
+ui.toolbar.hints.eyedropper=Pipette – Klicken auf einen Knoten auf dem Spielbrett, um ihn automatisch im Shop auszuwählen (sofern verfügbar).
+ui.toolbar.hints.nodepainter=Knoten zeichnen – Ziehe über das Spielfeld, um eine Reihe von Knoten zu zeichnen. Wenn „Automatische Verbindung“ aktiviert ist, werden die gezeichneten Knoten automatisch verbunden.
+ui.toolbar.hints.connectionpainter=Verbindungen zeichnen – zum Verwenden auf dem Board ziehen. Alle Knoten im Auswahlbereich werden verbunden, wenn sie sich in derselben Zeile/Spalte befinden (abhängig von der Pfeilrichtung). Verwende {}, um ausgewählte Verbindungen zu löschen.
+ui.toolbar.hints.autoconnections=Automatische Verbindung – Beim Einfügen und Zeichnen von Knoten wird versucht, Knoten des gleichen Typs automatisch zu verbinden, sofern dies sinnvoll ist.
+ui.toolbar.hints.hintsenabled=Hinweise – Aktiviert/Deaktiviert Pop-up-Tipps.
+
+ui.tutorial.1=Ziehe den Knoten „1“ aus dem Shop mithilfe von {} auf das Spielfeld. Du kannst {} verwenden, um die Kamera zu bewegen. Wenn du das Schwenken des Bildschirms nicht möchtest, kannst du es in den Einstellungen deaktivieren.
+ui.tutorial.2=Ziehe {} schnell von einem platzierten Knoten auf einen Knoten mit "=", um sie zu verbinden. Wenn du länger gedrückt hälst, hebst du den Knoten an (die Greifgeschwindigkeit kann in den Einstellungen angepasst werden).
+ui.tutorial.3=Platziere mehr „1“-Knoten, um mehr Ressourcen (Zahlen) zu produzieren. Sobald du genügend Ressourcen auf der Zielinsel abgeliefert hast, klicke auf die blinkende Markierung, um sie aufzuleveln. Jeder Levelaufstieg ändert das Ziel und einige andere Dinge, die du später kennenlernen wirst. Falls du Drag & Drop nicht magst, kannst du dir die verfügbaren Werkzeuge in der Werkzeugleiste (unten links) ansehen. Sie werden dir die Arbeit erleichtern.
+ui.tutorial.4=Durch Ziehen von geschweiften Klammern {} auf eine leere Fläche wird der Auswahlmodus aktiviert. Wähle Knoten aus, kopiere sie ({}) und füge sie ein ({}). Füge einen „+“-Knoten hinzu und verbinde ihn, um aus zwei Ressourcen die neue Ressource „2“ zu erstellen. Verwende den „Löschmodus“, um etwas zu löschen (in der Symbolleiste unten links).
+ui.tutorial.5=Verwenden die gleiche Methode wie zuvor, um Ressource „3“ zu erzeugen.
+ui.tutorial.6=Gleiches gilt für „5“. Je höher die Stufe der Insel ist, desto schneller verbraucht sie die gelieferten Ressourcen. Bauen Sie daher längere Reihen von Produktionsknoten.
+ui.tutorial.7=Schalte den Multiplikationsknoten frei. Indem du die zielgerechten Ressourcen zur Zielinsel bringst, verdienst du Geld. Die Währung hängt von der Zielinsel ab.
+ui.tutorial.8=Schalte eine neue Insel frei und platziere sie auf dem Spielbrett, um mehr Platz zu erhalten. Die Kosten für Upgrades steigen zwar, aber du verdienst im Laufe der Zeit mehr und findest bessere Upgrades.
+ui.tutorial.9=Entsperre nun den Knoten „2“.
+ui.tutorial.10=Wenn du einen Knoten aus dem Shop auf zuvor ausgewählte Knoten auf dem Spielbrett ziehst, werden diese durch den Knoten aus dem Shop ersetzt.
+ui.tutorial.11=Schau dir die Werkzeuge in der Symbolleiste an. Da sind einige sehr nützliche dabei. Alle Tastenkombinationen lassen sich in den Einstellungen ändern!
+ui.tutorial.12=Es ist Zeit, eine Spezialinsel freizuschalten. Spezialinseln verfügen über Knotenpunkte, die die durch sie hindurchfließenden Ressourcen modifizieren. Beispielsweise erhöht „a+1“ den Wert jeder Ressource um 1, und „ax4“ multipliziert jeden Wert mit 4. Ein solcher Spezialknotenpunkt ersetzt eine ganze Reihe von Produktionsknotenpunkten – es lohnt sich also, ihn zu nutzen. Außerdem gibt es eine Brücke, die Verbindungskollisionen ignoriert.
+ui.tutorial.13=Your earnings per delivered resource ($/R) come from the formula shown on the island. It includes coefficients (A, B, C) you can upgrade with money and the level of the target island. More ways to increase income will appear later.
+ui.tutorial.14=Vergiss nicht, die Spezialinseln zu nutzen. Anfangs mag es sinnvoll sein, nur leere Inseln zu verwenden, aber das ist nicht sehr effizient – ​​vor allem später.
+ui.tutorial.15=Der KI-Modus ist einer meiner Favoriten. Anstatt ihn einzuschalten, kann man auch {} gedrückt halten, um schnell etwas zu malen.
+ui.tutorial.16=Es ist vielleicht nicht sofort ersichtlich, aber bereits gekaufte Inseln können gelöscht und an beliebiger Stelle neu platziert werden. Schau in der Symbolleiste nach!
+ui.tutorial.17=Denke daran, die automatische Verbindung zu verwenden, falls du diese benötigst!
+
+ui.onhover.quizisland=Auf Quizinseln kannst du dir zusätzliches Geld verdienen. Du kannst auch Knotenpunkte an ihren Rändern platzieren. Später erhalten sie weitere interessante Funktionen.
+ui.onhover.additionaltunnels=Fügt Spezialinseln Tunnel hinzu. Jedes Upgrade fügt zwei Tunnel einer bestimmten Farbe hinzu. Diese erscheinen beim Hinzufügen oder Entfernen einer Insel zufällig anstelle von Wänden. Sind bereits genügend Tunnel auf dem Spielbrett vorhanden, erscheinen keine neuen – die alten müssen entfernt werden. Jede Ressource, die in einen Tunnel gesendet wird, erscheint in einem anderen Tunnel derselben Farbe.
+ui.onhover.additionalbridges=Fügt Spezialinseln zusätzliche Brücken hinzu. Jede Verbesserung fügt je nach Verbesserungsnummer mehrere Brücken hinzu. Diese erscheinen beim Löschen/Hinzufügen einer Insel zufällig anstelle von Mauern. Sind bereits genügend Brücken auf dem Spielbrett vorhanden, erscheinen keine neuen – die alten müssen gelöscht werden.
+ui.onhover.blueprintisland=Testinsel. Hier kannst du Formeln testen, wenn auf dem Spielbrett kein Platz mehr ist.
+ui.onhover.specialislands=Spezialinseln verfügen über Knoten, die die durch sie hindurchfließenden Ressourcen modifizieren. Beispielsweise erhöht „a+1“ den Wert jeder Ressource um 1, und „ax4“ multipliziert jeden Wert mit 4. Ein solcher Spezialknoten ersetzt eine ganze Reihe von Produktionsknoten – es lohnt sich also, ihn zu nutzen. Außerdem gibt es eine Brücke, die Verbindungskollisionen ignoriert.
+ui.onhover.abcplus=Dieses Upgrade erhöht die Parameterwerte gegenüber den vorherigen Inseln.
+ui.onhover.screenPanning=Wenn diese Funktion aktiviert ist, kannst du die Kamera bewegen, indem du den Mauszeiger an den Bildschirmrand bewegst.
+ui.onhover.grabspeed=Je höher der Wert, desto schneller wird der Knoten ausgewählt, wenn du ihn mit {} gedrückt hälst.
+ui.onhover.tutorials=Falls du nicht weißt, wie man das Spiel spielt, kannst du dir auch Tutorial-Videos ansehen!
+ui.onhover.buynewnode=Dieses Power-Up schaltet neue Knotenpunkte frei.
+ui.onhover.buynewisland=Dieses Power-up schaltet neue, leere Inseln frei.
+ui.onhover.dollar1SlashR=„$“ steht für dein Geld (variiert je nach Zielinsel). „$/R“ gibt an, wie viel du pro richtiger Zahl (Ressource) verdienst, die du der Zielinsel lieferst, und „$/s“ gibt an, wie viel du pro Sekunde verdienst.
+ui.onhover.speedUp=Beschleunigt Produktionsknoten.
+ui.onhover.quizupgrade=Quizinsel-Upgrade – Wenn du es freischaltest, erhältst du jedes Mal, wenn du ein Quiz gewinnst, einen temporären Einkommensbonus. Mit jedem weiteren Upgrade erhältst du mehr Boni pro Quizinsel und mehr Wiederholungsversuche.
+ui.onhover.quizislandpausehint=Fügt den Quizinseln eine Pausetaste hinzu. Damit kannst du den Zähler anhalten, wenn du die besten Multiplikatoren hast!
+ui.onhover.captionsDlc=Ich habe Node Math mit der Idee entwickelt, dass Mathematik eine universelle Sprache für jeden ist, der sie versteht. Deshalb enthält das Spiel standardmäßig keine Übersetzungen – nur visuelle Hinweise und die mathematischen Formeln selbst. Mir ist jedoch bewusst, dass nicht jeder so spielen möchte oder dass manches unintuitiv wirken mag. Aus diesem Grund ist dem Spiel ein offizieller, kostenloser DLC beigefügt, mit dem Untertitel in ausgewählten Sprachen aktiviert werden können (weitere Übersetzungen folgen in Kürze).
+
+
+ui.tutorials.basiccontrols=Grundlagen der Steuerung
+ui.tutorials.magictool=KI-Modus
+ui.tutorials.specialislands=Spezialinseln
+ui.tutorials.income1=Einkommen #1
+ui.tutorials.income2=Einkommen #2
+
+ui.endgame.thanks.1=Glückwunsch!
+ui.endgame.thanks.2=Ich bin so stolz auf dich!
+ui.endgame.thanks.3=(Endlosmodus freigeschaltet)
+
+language.name=German
