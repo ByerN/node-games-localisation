@@ -1,4 +1,7 @@
-eng,english,Lato-Bold.ttf
-pol,polish,Lato-Bold.ttf
-zho,chinese,NotoSansSC-Bold.otf
-ger,german,Lato-Bold.ttf
+eng,english,Lato-Bold.ttf,1f,1f
+pol,polish,Lato-Bold.ttf,1f,1f
+rus,russian,NotoSans-Bold.ttf,0.95f,0.85f
+ukr,ukrainian,NotoSans-Bold.ttf,0.95f,0.85f
+zho,chinese,NotoSansSC-Bold.otf,1f,0.5f
+jpn,japanese,NotoSansJP-Bold.otf,1f,0.5f
+ger,german,Lato-Bold.ttf,1f,1f

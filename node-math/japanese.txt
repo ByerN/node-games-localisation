@@ -1,0 +1,100 @@
+game.button.lmb=LMB
+game.button.rmb=RMB
+game.button.mmb=MMB
+game.button.space=スペース
+
+ui.mainmenu.play=プレイ
+ui.mainmenu.save=セーブ選択
+ui.mainmenu.settings=設定
+ui.mainmenu.exit=終了
+ui.mainmenu.tutorials=チュートリアル
+
+ui.settings.sfx=効果音
+ui.settings.music=音楽
+ui.settings.fullscreen=フルスクリーン
+ui.settings.windowmode=ウィンドウモード
+ui.settings.borderless=ボーダーレス
+ui.settings.grabspeed=グラブ速度
+ui.settings.zoomspeed=ズーム速度
+ui.settings.screenpanning=カメラパン
+ui.settings.keybindings=操作設定
+
+ui.keybindings.mouse.1=メインボタン
+ui.keybindings.mouse.2=キャンセル
+ui.keybindings.mouse.3=カメラ移動
+ui.keybindings.pause=ポーズ
+ui.keybindings.photomode=フォトモード
+ui.keybindings.aipainter=スマートペイント
+ui.keybindings.standardcursor=標準モード
+ui.keybindings.deletemode=削除モード
+ui.keybindings.eyedropper=スポイトモード
+ui.keybindings.nodepainter=ノードペイント
+ui.keybindings.connectionpainter=接続ペイント
+ui.keybindings.gridpainter=グループペイント
+ui.keybindings.rotation=回転
+ui.keybindings.flipV=縦反転
+ui.keybindings.flipH=横反転
+ui.keybindings.copy=コピー
+ui.keybindings.paste=ペースト
+ui.keybindings.cut=カット
+ui.keybindings.undo=元に戻す
+ui.keybindings.redo=やり直す
+ui.keybindings.specialbutton1=スペシャルボタン1
+ui.keybindings.specialbutton2=スペシャルボタン2
+
+ui.toolbar.hints.deletemode=■削除モード　カーソルをドラッグして選択した要素を削除します。
+ui.toolbar.hints.aipainter=■スマートペイント　ノード（ショップまたはボード上）をクリックして選択し、その内容で描画します。{} で選択解除します。ショップでノードが選択されていない場合、{} をドラッグして選択したり、{} を使って削除できます。
+ui.toolbar.hints.islandremoval=■島の削除　購入した島を削除し、再配置できます。最後に削除した島が最初に配置されます。
+ui.toolbar.hints.gridpainter=■グループペイント　ボード上をドラッグして、ショップで選択したノードのグループを描画します。
+ui.toolbar.hints.eyedropper=■スポイトモード　ボード上のノードをクリックすると、ショップで自動的に選択されます（利用可能な場合）
+ui.toolbar.hints.nodepainter=■ノードペイント　ボード上をドラッグしてノードの列を描画します。「自動接続」がオンの場合、描画されたノードは自動的に接続されます。
+ui.toolbar.hints.connectionpainter=■接続ペイント　ボード上をドラッグして使用します。選択範囲内のノードを同じ行または列へと接続します。{} を使用して選択した接続を削除します。
+ui.toolbar.hints.autoconnections=■自動接続　ノードの貼り付けや描画時に、同じタイプのノードを自動的に接続します。
+ui.toolbar.hints.hintsenabled=■ヒント　ポップアップヒントの有効／無効を切り替えます。
+
+ui.tutorial.1=画面下に表示されているショップから「1」ノードを {} を使ってボード上にドラッグします。{} でカメラを移動できます。カメラパン(画面の拡大縮小)が合わない場合は設定から無効にできます。
+ui.tutorial.2=配置されたノードから「=」ノードへ {} を素早くドラッグして接続します。長押しするとノードを持ち上げます。（グラブ速度は設定で変更可能です）
+ui.tutorial.3=より多くの「1」ノードを配置して、より多くのリソース（数値）を生産します。十分なリソースをターゲット島に届けたら、明るく点灯しているマーカーをクリックしてレベルアップします。レベルアップごとに目標やその他の要素が変化します。ドラッグ＆ドロップが苦手な場合は、ツールバー（左下）にある便利なツールを確認してみてください :)
+ui.tutorial.4=空きエリアで {} をドラッグすると選択モードに入ります。ノードを選択し、コピー（{}）、ペースト（{}）します。「+」ノードを追加して接続すると、「1」を2つ使ってリソース「2」を作成できます。削除したい場合は「削除モード」（ツールバー左下）を使用します。
+ui.tutorial.5=先程と同じ方法でリソース「3」を作成します。
+ui.tutorial.6=「5」も同様に作ってみてください。島のレベルが高いほど、届けられたリソースをより速く消費します。より長い生産ラインを構築しましょう。
+ui.tutorial.7=乗算ノードをアンロックします。目標に合ったリソースをターゲット島に届けるとお金を稼げます。通貨の種類は島によって異なります。
+ui.tutorial.8=新しい島をアンロックしてボードに配置し、スペースを増やします。アップグレードのコストは上がりますが、収益も増え、より効率的にアップグレード出来るようになります。
+ui.tutorial.9=次に「2」ノードをアンロックします。
+ui.tutorial.10=ショップからノードをボード上の選択済みノードにドラッグすると、一括で置き換えられます。
+ui.tutorial.11=ツールバー内のツールを確認してください。便利なものがいくつかあります。すべてのキー操作は設定で変更可能です！(画面右端にリストがあります)
+ui.tutorial.12=スペシャル島をアンロックする時です。スペシャル島には、通過するリソースを変化させるノードがあります。例：「a+1」は各リソースに1を加算し、「ax4」は各数値を4倍します。1つのスペシャルノードは生産ノードの列全体を置き換えるため、とても便利です。また、接続の衝突を無視するブリッジ(十字に似たアイコン)もあります。
+ui.tutorial.13=配達したリソースあたりの収益 ($/R) は島に表示される式によって決まります。式には、お金でアップグレードできる係数 (A, B, C) とターゲット島のレベル(例：L$3)が含まれます。後でさらに収入を増やす方法も追加されます。
+ui.tutorial.14=スペシャル島を活用しましょう。最初は空っぽの島だけで間に合うかもしれませんが、あまり効率的ではありません。難しくなる後半では試してみてください。
+ui.tutorial.15=AIモードは私のお気に入りの1つです。有効にする代わりに、{} を長押ししてすばやく描画することもできます。
+ui.tutorial.16=お気づきかもしれませんが、購入した島は削除して好きな場所に再配置できます。ツールバーを確認してみてください！(バツマークです)
+ui.tutorial.17=必要な場合は自動接続を忘れずに使用してください！
+
+ui.onhover.quizisland=クイズ島では追加の収入を得ることができます。端にもノードを配置できます。後でさらに面白い機能が追加されます。
+ui.onhover.additionaltunnels=スペシャル島にトンネルを追加します。各アップグレードで指定色のトンネルを2つ追加します。島の削除・追加時に、壁の代わりにランダムで出現します。すでに十分な数がある場合は出現しません。古いものを削除する必要があります。トンネルに送られたリソースは、同じ色の別のトンネルから出てきます。
+ui.onhover.additionalbridges=スペシャル島にブリッジを追加します。各アップグレードでレベルに応じた数のブリッジが追加されます。島の削除や追加時に壁の代わりにランダムで出現します。すでに十分な数がある場合は出現しません。古いものを削除する必要があります。
+ui.onhover.blueprintisland=テスト用の島です。ボード上のスペースが足りないときに式を試せます。
+ui.onhover.specialislands=スペシャル島には、通過するリソースを変化させるノードがあります。例：「a+1」は各リソースに1を加算し、「ax4」は各数値を4倍します。スペシャルノードは接続された生産ノード全体へ作用するため非常に有用です。また、接続の衝突を無視するブリッジもあります。
+ui.onhover.abcplus=このアップグレードは、以前の島のパラメータ値(ABC)を向上させます。
+ui.onhover.screenPanning=有効にすると、マウスカーソルを画面の端に移動させることでカメラを動かせます。
+ui.onhover.grabspeed=値が高いほど、{} を押し続けたときにノードが素早く持ち上がります。
+ui.onhover.tutorials=遊び方がわからない場合は、チュートリアル動画もチェックしてください！
+ui.onhover.buynewnode=このパワーアップで新しいノードをアンロックします。
+ui.onhover.buynewisland=このパワーアップで新しい空っぽの島をアンロックします。
+ui.onhover.dollar1SlashR="$" はあなたのお金（ターゲット島によって異なります）。「$/R」は正しいリソース1つあたりの収益、「$/s」は1秒あたりの収益を意味します。
+ui.onhover.speedUp=生産ノードの速度を上げます。
+ui.onhover.quizupgrade=クイズ島のアップグレード　アンロックすると、クイズに勝つたびに一時的な収入ボーナスを得られます。アップグレードごとに、ボーナス回数と再ロール回数が増加します。
+ui.onhover.quizislandpausehint=クイズ島に一時停止ボタンを追加します。最も良い倍率のときにカウンターを止めることができます！
+ui.onhover.captionsDlc=Node Math は「数学は理解できる人にとって普遍的な言語である」という理念で作られました。そのため、ゲームにはデフォルトで翻訳が含まれていません。視覚的な手がかりと数学そのものだけです。しかし、全員がそうしたプレイを望むわけではないので、無料の公式DLCとして、選択した言語の字幕を有効にできる機能を追加しました（今後さらに翻訳が追加される予定です）
+
+ui.tutorials.basiccontrols=基本操作
+ui.tutorials.magictool=スマートペイント
+ui.tutorials.specialislands=スペシャル島
+ui.tutorials.income1=収入 #1
+ui.tutorials.income2=収入 #2
+
+ui.endgame.thanks.1=おめでとう！
+ui.endgame.thanks.2=あなたをとても誇りに思います！
+ui.endgame.thanks.3=(エンドレスモードがアンロックされました)
+
+language.name=日本語

@@ -1,6 +1,6 @@
-game.button.lmb=Linke Maustaste
-game.button.rmb=Rechte Maustaste
-game.button.mmb=Mittlere Maustaste
+game.button.lmb=LMB
+game.button.rmb=RMB
+game.button.mmb=MMB
 game.button.space=Leertaste
 
 ui.mainmenu.play=Spielen
@@ -98,4 +98,4 @@ ui.endgame.thanks.1=Glückwunsch!
 ui.endgame.thanks.2=Ich bin so stolz auf dich!
 ui.endgame.thanks.3=(Endlosmodus freigeschaltet)
 
-language.name=German
+language.name=Deutsch
