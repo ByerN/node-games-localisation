@@ -100,5 +100,14 @@ ui.tutorials.income2=Zarabianie #2
 ui.endgame.thanks.1=Gratulacje!
 ui.endgame.thanks.2=Jestem z Ciebie dumny!
 ui.endgame.thanks.3=(Odblokowano tryb nieskończoności)
+ui.endgame.thanks.4=Podziel się wrażeniami i oceń grę na Steam!
+ui.endgame.thanks.5=Mam nadzieję, że fajnie się grało :)
 
 language.name=polski
+
+
+ui.onhover.freezequizmultiplier=Dodaje jedno zamrożenie mnożnika do każdej z wysp z zagadkami. Zamrożony mnożnik nie zmienia się podczas przetasowania.
+ui.onhover.quizmultiplierincrease=Na stałe zwiększa wszystkie mnożniki na wyspach z zagadkami.
+ui.onhover.quiztimedecrease=Na stałe zmniejsza czas oczekiwania na wyspach z zagadkami.
+
+ui.onhover.standardtoolhint=Kursor - standardowe narzędzie zaznaczania, przenoszenia obiektów i tworzenia połączeń. Dodatkowo - klikając {} na zaznaczone obiekty możesz je skopiować, a klikając dwukrotnie {} na obiekt zaznaczasz cały rząd połączonych ze sobą obiektów tego samego typu.

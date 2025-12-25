@@ -97,5 +97,12 @@ ui.tutorials.income2=Income #2
 ui.endgame.thanks.1=Congratulations!
 ui.endgame.thanks.2=I am so proud of you!
 ui.endgame.thanks.3=(Endless Mode unlocked)
+ui.endgame.thanks.4=Share your impressions and rate the game on Steam!
+ui.endgame.thanks.5=I hope you had a great time playing :)
 
 language.name=English
+
+ui.onhover.freezequizmultiplier=Adds one multiplier freeze to each quiz island. A frozen multiplier does not change during shuffling.
+ui.onhover.quizmultiplierincrease=Permanently increases all multipliers on the quiz islands.
+ui.onhover.quiztimedecrease=Permanently decreases wait time on the quiz islands.
+ui.onhover.standardtoolhint=Cursor - the standard tool for selecting and moving objects, and creating connections. Additionally, by clicking {} on selected objects you can copy them, and by double-clicking {} on an object you select the entire row of connected objects of the same type.

@@ -85,10 +85,7 @@ ui.onhover.dollar1SlashR="$" - 是你的金钱（根据目标岛屿不同而不�
 ui.onhover.speedUp=加速生产节点。
 ui.onhover.quizupgrade=问答岛屿升级 - 如果解锁，每次你赢得问答，都会获得一个临时收入加成。每进行一次此类升级，你从每个问答岛屿获得的加成次数和重新掷骰次数都会增加。
 ui.onhover.quizislandpausehint=为问答岛屿添加暂停按钮。当你有最佳倍率时，可以用它来停止计数器！
-ui.onhover.captionsDlc=我创建《Node Math》的初衷是，数学对于理解它的人来说是一种通用语言。
-这就是为什么游戏默认不包含翻译——只有视觉提示和数学本身。
-然而，我知道并非所有人都想以这种方式游戏，或者有些东西可能感觉不直观。
-因此，游戏包含了一个官方免费DLC，允许您以选定语言启用字幕（未来可能会添加更多翻译）。
+ui.onhover.captionsDlc=我创建《Node Math》的初衷是，数学对于理解它的人来说是一种通用语言。 这就是为什么游戏默认不包含翻译——只有视觉提示和数学本身。 然而，我知道并非所有人都想以这种方式游戏，或者有些东西可能感觉不直观。 因此，游戏包含了一个官方免费DLC，允许您以选定语言启用字幕（未来可能会添加更多翻译）。
 
 ui.tutorials.basiccontrols=操作基础
 ui.tutorials.magictool=智能绘制
@@ -99,5 +96,13 @@ ui.tutorials.income2=收益 #2
 ui.endgame.thanks.1=恭喜你！
 ui.endgame.thanks.2=我为你感到骄傲！
 ui.endgame.thanks.3=（无限模式已解锁）
+ui.endgame.thanks.4=分享你的体验，并在 Steam 上为游戏评分！
+ui.endgame.thanks.5=希望你玩得开心 :)
 
 language.name=简体中文
+
+
+ui.onhover.freezequizmultiplier=为每个测验岛添加一次倍数冻结。冻结的倍数在洗牌期间不会改变。
+ui.onhover.quizmultiplierincrease=永久提高所有测验岛的倍数。
+ui.onhover.quiztimedecrease=永久减少谜题岛屿的等待时间。
+ui.onhover.standardtoolhint=光标 - 用于选择、移动对象和创建连接的标准工具。此外，点击 {} 可复制选中的对象，而双击 {} 可选中同一类型、相互连接的一整排对象。

@@ -96,5 +96,13 @@ ui.tutorials.income2=収入 #2
 ui.endgame.thanks.1=おめでとう！
 ui.endgame.thanks.2=あなたをとても誇りに思います！
 ui.endgame.thanks.3=(エンドレスモードがアンロックされました)
+ui.endgame.thanks.4=感想を共有して、Steamでゲームを評価してください！
+ui.endgame.thanks.5=楽しんでいただけたなら嬉しいです :)
 
 language.name=日本語
+
+
+ui.onhover.freezequizmultiplier=各クイズアイランドに乗数のフリーズを1つ追加します。フリーズされた乗数はシャッフル中に変化しません。
+ui.onhover.quizmultiplierincrease=クイズアイランド上のすべての乗数が永続的に増加します。
+ui.onhover.quiztimedecrease=謎の島での待ち時間を永久に短縮します。
+ui.onhover.standardtoolhint=■カーソル － オブジェクトの選択・移動や接続を行う標準ツールです。さらに、選択したオブジェクトを {} でクリックするとコピーでき、オブジェクトを {} でダブルクリックすると、同じ種類で連結されたオブジェクトの行全体を選択できます。

@@ -97,5 +97,12 @@ ui.tutorials.income2=Einkommen #2
 ui.endgame.thanks.1=Glückwunsch!
 ui.endgame.thanks.2=Ich bin so stolz auf dich!
 ui.endgame.thanks.3=(Endlosmodus freigeschaltet)
+ui.endgame.thanks.4=Teile deine Eindrücke und bewerte das Spiel auf Steam!
+ui.endgame.thanks.5=Ich hoffe, du hattest viel Spaß beim Spielen :)
 
 language.name=Deutsch
+
+ui.onhover.freezequizmultiplier=Fügt jeder Quizinseln eine Multiplikator-Einfrierung hinzu. Ein eingefrorener Multiplikator ändert sich während des Mischens nicht.
+ui.onhover.quizmultiplierincrease=Erhöht dauerhaft alle Multiplikatoren auf den Quizinseln.
+ui.onhover.quiztimedecrease=Verkürzt dauerhaft die Wartezeit auf den Quizinseln.
+ui.onhover.standardtoolhint=Cursor - das Standardwerkzeug zum Markieren und Verschieben von Objekten sowie zum Erstellen von Verbindungen. Zusätzlich kannst du durch Klicken auf {} markierte Objekte kopieren, und durch Doppelklicken auf {} eines Objekts eine gesamte Reihe verbundener Objekte desselben Typs markieren.
