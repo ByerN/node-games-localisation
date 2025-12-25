@@ -31,20 +31,20 @@ If you want a new translation to be listed in the game, you have to edit "transl
 
 It may look like this:
 ```
-eng,english,Lato-Bold.ttf
-pol,polish,Lato-Bold.ttf
+eng,english,Lato-Bold.ttf,1f,1f
+pol,polish,Lato-Bold.ttf,1f,1f
+rus,russian,NotoSans-Bold.ttf,0.95f,0.85f
+ukr,ukrainian,NotoSans-Bold.ttf,0.95f,0.85f
+zho,chinese,NotoSansSC-Bold.otf,1f,0.5f
+jpn,japanese,NotoSansJP-Bold.otf,1f,0.5f
+ger,german,Lato-Bold.ttf,1f,1f
 ```
 
-- First column - ISO language code (3 letters) https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
-- Second column - translations file name (without .txt extension)
-- Third column - font.
-
-I had to hardcode some ISO language codes with special settings as they didn't display properly. Affected languages are:
-- jpn - Japanese
-- zho - Simplified Chinese
-- ara - Arabic
-- rus - Russian
-- ukr - Ukrainian
+- 1. column - ISO language code (3 letters) https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
+- 2. column - translations file name (without .txt extension)
+- 3. column - font
+- 4. column - font size multiplier (1f is a default)
+- 5. column - autowrapping multiplier - it affects how many characters can be in one line of autowrapped text (for example, tutorial/on-hover hints). If the text is overflowing, you can decrease this value (or font size but font size affects all the text)
 
 Also, there are the following fonts available in the game (let me know if you see your language missing with a different alphabet):
 - any Latin-based alphabet: Lato-Bold.ttf
