@@ -5,3 +5,4 @@ ukr,ukrainian,NotoSans-Bold.ttf,0.95f,0.85f
 zho,chinese,NotoSansSC-Bold.otf,1f,0.5f
 jpn,japanese,NotoSansJP-Bold.otf,1f,0.5f
 ger,german,Lato-Bold.ttf,1f,1f
+fre,french,Lato-Bold.ttf,1f,1f
