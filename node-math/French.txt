@@ -97,5 +97,12 @@ ui.tutorials.income2=Revenu #2
 ui.endgame.thanks.1=Félicitation!
 ui.endgame.thanks.2=Je suis fier de vous!
 ui.endgame.thanks.3=(Mode Infini débloqué)
+ui.endgame.thanks.4=Partagez vos impressions et notez le jeu sur Steam!
+ui.endgame.thanks.5=J'espère que vous avez pris plaisir à jouer :)
 
 language.name=Français
+
+ui.onhover.freezequizmultiplier=Ajoute un multiplicateur gelé à chaque île de quiz. Un multiplicateur gelé ne change pas pendant le mélange.
+ui.onhover.quizmultiplierincrease=Augmente de façon permanente tous les multiplicateurs de l'île quiz.
+ui.onhover.quiztimedecrease=Réduit définitivement le temps d'attente sur les îles de quiz.
+ui.onhover.standardtoolhint=Curseur - l'outil standard pour sélectionner, déplacer des objets et créer des connexions. De plus, en cliquant {} sur des objets sélectionnés, vous pouvez les copier, et en double-cliquant {} sur un objet, vous sélectionnez toute la rangée d'objets connectés du même type.
