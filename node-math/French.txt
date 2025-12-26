@@ -1,0 +1,101 @@
+game.button.lmb=SBG
+game.button.rmb=SBD
+game.button.mmb=SBM
+game.button.space=ESPACE
+
+ui.mainmenu.play=Jouer
+ui.mainmenu.save=Enregistrer
+ui.mainmenu.settings=Paramètres
+ui.mainmenu.exit=Quitter
+ui.mainmenu.tutorials=Tutoriels
+
+ui.settings.sfx=Effets sonores
+ui.settings.music=Musique
+ui.settings.fullscreen=Plein écran
+ui.settings.windowmode=Fenêtré
+ui.settings.borderless=Sans bordures
+ui.settings.grabspeed=Accélération 
+ui.settings.zoomspeed=Vitesse du zoom
+ui.settings.screenpanning=Caméra Panoramique
+ui.settings.keybindings=Contrôles
+
+ui.keybindings.mouse.1=Bouton principal
+ui.keybindings.mouse.2=Annuler
+ui.keybindings.mouse.3=Mouvement caméra
+ui.keybindings.pause=Pause
+ui.keybindings.photomode=Mode Photo
+ui.keybindings.aipainter=Peinture intelligente
+ui.keybindings.standardcursor=Mode standard
+ui.keybindings.deletemode=Mode suppression
+ui.keybindings.eyedropper=Mode pipette
+ui.keybindings.nodepainter=Peinture des noeuds
+ui.keybindings.connectionpainter=Peinture des connections
+ui.keybindings.gridpainter=Peinture groupée
+ui.keybindings.rotation=Rotation
+ui.keybindings.flipV=Flip Vertical
+ui.keybindings.flipH=Flip Horizontal
+ui.keybindings.copy=Copier
+ui.keybindings.paste=Coller
+ui.keybindings.cut=Couper
+ui.keybindings.undo=Annuler
+ui.keybindings.redo=Refaire
+ui.keybindings.specialbutton1=Bouton special 1
+ui.keybindings.specialbutton2=Bouton special 2
+
+ui.toolbar.hints.deletemode=Mode suppression - faites glisser le curseur pour supprimer les éléments sélectionnés.
+ui.toolbar.hints.aipainter=Peinture intelligente - cliquez sur un nœud (dans la boutique ou sur le plateau) pour le sélectionner et peindre avec. {} désélectionne. Si un nœud n'est pas sélectionné dans la boutique, vous pouvez le sélectionner en le faisant glisser {} sur le plateau ou le retirer en utilisant {}.
+ui.toolbar.hints.islandremoval=Suppression d'île - vous pouvez supprimer une île achetée et la replacer. L'île supprimée en dernier sera la première à être replacée.
+ui.toolbar.hints.gridpainter=Peinture de groupe - faites glisser sur le tableau pour peindre un groupe de nœuds sélectionnés dans la boutique.
+ui.toolbar.hints.eyedropper=Mode Pipette - cliquez sur un nœud sur le plateau pour le sélectionner automatiquement dans la boutique (si disponible).
+ui.toolbar.hints.nodepainter=Peinture de nœuds - faites glisser sur la grille pour peindre une rangée de nœuds. Si « Connexion automatique » est activée, les nœuds peints se connecteront automatiquement.
+ui.toolbar.hints.connectionpainter=Peinture de connexion - faites glisser sur le tableau pour utiliser. Tous les nœuds dans la zone de sélection seront connectés s'ils se trouvent sur la même ligne/colonne (selon la direction de la flèche). Utilisez {} pour supprimer les connexions sélectionnées.
+ui.toolbar.hints.autoconnections=Auto-connexion - le collage et les nœuds tenteront de se connecter automatiquement s'ils sont du même type quand cela a du sens.
+ui.toolbar.hints.hintsenabled=Astuces - active/désactive les conseils contextuels.
+
+ui.tutorial.1=Faites glisser le nœud "1" de la boutique sur le tableau en utilisant {}. Vous pouvez utiliser {} pour déplacer la caméra. Si vous n'aimez pas l'écran panoramique, vous pouvez le désactiver dans les paramètres.
+ui.tutorial.2=Glissage rapide {} d'un nœud placé sur un nœud avec "=" pour les connecter. Si vous maintenez plus longtemps, vous soulevez le nœud (la vitesse de saisie peut être modifiée dans les paramètres).
+ui.tutorial.3=Placez plus de nœuds "1" pour produire plus de ressources (nombres). Lorsque vous livrez suffisamment de ressources à l'île cible, cliquez sur le marqueur clignotant pour le faire monter de niveau. Chaque montée de niveau change l'objectif et certaines autres choses que vous découvrirez plus tard. Si vous n'aimez pas le glisser-déposer, n'hésitez pas à jeter un œil aux outils disponibles dans la barre d'outils (en bas à gauche). Ils vous faciliteront la vie :)
+ui.tutorial.4=Faire glisser {} sur une zone vide vous permet d'entrer en mode de sélection. Sélectionnez des nœuds, copiez ({}), et collez ({}). Ajoutez et connectez un nœud "+" pour créer la ressource "2" à partir de deux "1". Utilisez le "Mode Suppression" si vous souhaitez supprimer quelque chose (à partir de la barre d'outils - en bas à gauche).
+ui.tutorial.5=Utilisez la même méthode qu'auparavant pour produire la resource "3".
+ui.tutorial.6=Même chose avec « 5 ». Plus le niveau de l'île est élevé, plus elle consommera rapidement les ressources livrées, alors construisez des rangées plus longues de nœuds de production.
+ui.tutorial.7=Débloquez le nœud de multiplication. Fournir des ressources correspondant aux objectifs de l'île cible vous rapporte de l'argent. La devise dépend de l'île cible.
+ui.tutorial.8=Débloquez une nouvelle île et placez-la sur le plateau pour obtenir plus d'espace. Le coût des améliorations augmentera, mais vous gagnerez plus et trouverez de meilleures améliorations avec le temps.
+ui.tutorial.9=Maintenant débloquez le nœud "2".
+ui.tutorial.10=Si vous faites glisser un nœud de la boutique sur des nœuds précédemment sélectionnés du plateau, ils seront remplacés par celui de la boutique.
+ui.tutorial.11=Jetez un coup d'œil aux outils de la barre d'outils. Il y en a quelques-uns très utiles. Tous les raccourcis clavier peuvent être modifiés dans les paramètres !
+ui.tutorial.12=Il est temps de débloquer une île spéciale. Les îles spéciales ont des nœuds qui modifient les ressources qui les traversent. Par exemple, « a+1 » ajoute 1 à chaque ressource, et « ax4 » multiplie chaque nombre par 4. Un de ces nœuds spéciaux remplace une rangée entière de nœuds de production - donc oui, ça vaut la peine de l'utiliser. Il y a aussi un pont qui ignore les collisions de connexion.
+ui.tutorial.13=Vos gains par ressource livrée ($/R) proviennent de la formule indiquée sur l'île. Elle inclut des coefficients (A, B, C) que vous pouvez améliorer avec de l'argent ainsi que le niveau de l'île cible. D'autres moyens d'augmenter vos revenus apparaîtront plus tard.
+ui.tutorial.14=N'oubliez pas d'utiliser vos îles spéciales. Au début, vous pourriez continuer à n'utiliser que des îles vides, mais ce n'est pas très efficace, surtout plus tard.
+ui.tutorial.15=Le mode IA est l'un de mes préférés. Au lieu de l'activer, vous pouvez également maintenir {} pour peindre rapidement quelque chose.
+ui.tutorial.16=Cela peut ne pas être évident, mais les îles achetées précédemment peuvent être supprimées et replacées où vous le souhaitez. Consultez la barre d'outils !
+ui.tutorial.17=N'oubliez pas d'utiliser la connexion automatique si vous en avez besoin !
+
+ui.onhover.quizisland=Quiz des îles où vous pouvez gagner de l'argent supplémentaire. Vous pouvez également placer des nœuds le long de leurs bords. Ils auront des fonctionnalités plus intéressantes plus tard.
+ui.onhover.additionaltunnels=Ajoute des tunnels aux îles spéciales. Chaque amélioration ajoute 2 tunnels d'une couleur donnée. Ils apparaissent de manière aléatoire à la place des murs lors de la suppression/ajout d'une île. S'il y en a déjà suffisamment sur le plateau, ils n'apparaîtront pas - vous devez supprimer les anciens. Chaque ressource envoyée dans un tunnel apparaîtra dans un autre tunnel de la même couleur.
+ui.onhover.additionalbridges=Ajoute des ponts supplémentaires aux îles spéciales. Chaque amélioration ajoute plusieurs ponts selon le numéro de l'amélioration. Ils apparaissent de manière aléatoire au lieu des murs lors de la suppression/ajout d'une île. S'il y en a déjà assez sur le plateau, ils n'apparaîtront pas - vous devez supprimer les anciens.
+ui.onhover.blueprintisland=Île de test. Vous pouvez tester des formules ici lorsque vous manquez d'espace sur le tableau.
+ui.onhover.specialislands=Les îles spéciales ont des nœuds qui modifient les ressources qui les traversent. Par exemple, « a+1 » ajoute 1 à chaque ressource, et « ax4 » multiplie chaque nombre par 4. Un de ces nœuds spéciaux remplace une rangée entière de nœuds de production - donc oui, ça vaut le coup de l’utiliser. Il y a aussi un pont qui ignore les collisions de connexion.
+ui.onhover.abcplus=Cette amélioration augmente les valeurs des paramètres des îles précédentes.
+ui.onhover.screenPanning=Si activé, vous pouvez déplacer la caméra en déplaçant le curseur de la souris vers le bord de l'écran..
+ui.onhover.grabspeed=Plus la valeur est élevée, plus le nœud sera rapidement sélectionné lorsque vous le maintiendrez en utilisant {}
+ui.onhover.tutorials=Si vous ne savez pas comment jouer au jeu, vous pouvez aussi regarder des vidéos tutoriels!
+ui.onhover.buynewnode=Ce bonus débloque de nouveaux nœuds.
+ui.onhover.buynewisland=Ce bonus débloque de nouveaux ilôts.
+ui.onhover.dollar1SlashR="$" - c'est votre argent (il varie selon les objectifs de l'île). "$/R" - signifie combien vous gagner pour chaque bon nombre (resource) apporté à l'île, et "$/s" est votre gain par seconde.
+ui.onhover.speedUp=Accélérer les nœuds de production.
+ui.onhover.quizupgrade=Amélioration de l'Île Quiz - si vous la débloquez, à chaque fois que vous gagnez un quiz, vous recevrez un boost de revenu temporaire. Pour chaque amélioration de ce type, vous obtiendrez plus de boosts par île quiz et plus de relances.
+ui.onhover.quizislandpausehint=Ajoute un bouton pause aux îles de quiz. Vous pouvez l'utiliser pour arrêter le compteur lorsque vous avez les meilleurs multiplicateurs !
+ui.onhover.captionsDlc=J'ai créé Node Math avec l'idée que les mathématiques sont un langage universel pour quiconque les comprend. C'est pourquoi le jeu n'inclut pas de traductions par défaut - seulement des indices visuels et les mathématiques elles-mêmes. Cependant, je sais que tout le monde ne veut pas jouer de cette façon, ou que certaines choses peuvent sembler peu intuitives. C'est pourquoi un DLC officiel gratuit a été inclus avec le jeu, vous permettant d'activer les sous-titres dans certaines langues (d'autres traductions pourraient être ajoutées bientôt).
+
+
+ui.tutorials.basiccontrols=Notions de base sur les contrôles
+ui.tutorials.magictool=Peinture intelligente
+ui.tutorials.specialislands=Iles spéciales
+ui.tutorials.income1=Revenu #1
+ui.tutorials.income2=Revenu #2
+
+ui.endgame.thanks.1=Félicitation!
+ui.endgame.thanks.2=Je suis fier de vous!
+ui.endgame.thanks.3=(Mode Infini débloqué)
+
+language.name=Français
