@@ -1,0 +1,2 @@
+eng,english,Outfit-Bold.ttf,1f,1f
+pol,polish,Outfit-Bold.ttf,1f,1f
