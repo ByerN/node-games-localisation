@@ -1,5 +1,7 @@
 # About
-This is an open source repository for translations for Node games by ByerN: https://store.steampowered.com/app/3648370/Node_Math/
+This is an open source repository for translations for Node games by ByerN: 
+https://store.steampowered.com/app/3648370/Node_Math/
+https://store.steampowered.com/app/4326740/Node_Crown/
 
 # Contribution Guidelines
 
