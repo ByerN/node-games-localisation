@@ -1,0 +1,215 @@
+{
+	"itemid": "1072758",
+	"languages": {
+		"english": {
+			"app[content][about]": "[h2]How to play:[/h2][p][b]Place 1 of 3 nodes[/b][/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/gif_&quot;][/img][/p][p][b]Find the best synergy[/b][/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/2026-01-13_16-16-13&quot;][/img][/p][p][b]Build your kingdom and win[/b][/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/2026-01-13_16-19-48&quot;][/img][/p]",
+			"app[content][short_description]": "Node Crown is a roguelite focused on building a node-based kingdom.\r\nQuick runs designed for replayability, deep synergies, hundreds of nodes, and builds that make every run unique - you will find it here! Have fun!",
+			"app[content][sysreqs][windows][min][osversion]": "Windows 7 or later",
+			"app[content][sysreqs][windows][min][processor]": "Intel Core 2 Duo E6320 (2*1866) or equivalent (no ARM)",
+			"app[content][sysreqs][windows][min][graphics]": "GeForce 7600 GS (512 MB) or equivalent"
+		},
+		"french": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"italian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"german": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"spanish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"bulgarian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"czech": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"danish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"dutch": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"finnish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"greek": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"hungarian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"indonesian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"japanese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"koreana": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"malay": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"norwegian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"polish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"brazilian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"portuguese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"romanian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"russian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"schinese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"latam": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"swedish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"thai": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"tchinese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"turkish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"ukrainian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"vietnamese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		}
+	}
+}
