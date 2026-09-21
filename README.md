@@ -65,3 +65,6 @@ How to edit the config file:
 
 # How to test your changes in the game?
 You can edit both the translation files and the config file in the game. Fonts are in the "fonts" folder.
+
+# Steam Store page translations
+Starting with Node Crown, there is also the Steam store page translation JSON in a separate file: https://github.com/ByerN/node-games-localisation/tree/main/store-page
