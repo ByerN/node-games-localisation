@@ -156,11 +156,11 @@
 			"app[content][sysreqs][windows][min][graphics]": ""
 		},
 		"schinese": {
-			"app[content][about]": "",
-			"app[content][short_description]": "",
-			"app[content][sysreqs][windows][min][osversion]": "",
-			"app[content][sysreqs][windows][min][processor]": "",
-			"app[content][sysreqs][windows][min][graphics]": ""
+			"app[content][about]": "[h2]玩法说明：[/h2][p][b]从底部 3 个节点中选择 1 个放置[/b][/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/gif_&quot;][/img][/p][p][b]寻找最佳联动配置[/b][/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/2026-01-13_16-16-13&quot;][/img][/p][p][b]构筑你的王国，获得胜利[/b][/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/2026-01-13_16-19-48&quot;][/img][/p]",
+			"app[content][short_description]": "《节点王冠》是主打节点式王国构筑的轻度肉鸽（Roguelite）游戏。\r\n单局节奏轻快、值得反复游玩，拥有深度联动体系、上百种功能节点与丰富构筑流派，每一局都能带来独一无二的体验 —— 所有精彩尽在此处！祝你游玩愉快！",
+			"app[content][sysreqs][windows][min][osversion]": "Windows 7 及以上",
+			"app[content][sysreqs][windows][min][processor]": "英特尔 酷睿 2 双核 E6320（1.86GHz）或同等性能处理器（不支持 ARM 架构）",
+			"app[content][sysreqs][windows][min][graphics]": "GeForce 7600 GS（512MB 显存）或同等性能显卡"
 		},
 		"latam": {
 			"app[content][about]": "",
