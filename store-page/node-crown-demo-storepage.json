@@ -1,0 +1,215 @@
+{
+	"itemid": "1132385",
+	"languages": {
+		"english": {
+			"app[content][about]": "[p][b]Place 1 of 3 nodes, find the best synergy, build your kingdom, and win the game![/b][/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/node-crown-gif&quot;][/img][/p][h2]Content[/h2][list][*][p]Around 500 nodes with different abilities, affecting other nodes. Along with them, a lot of interesting mechanics that can be used while discovering new builds,[/p][/*][/list][list][*][p]15 themed crowns - modes prioritizing specific &quot;factions&quot; - each one unlocks new mechanics and nodes for other crowns. They have a few stages with increasingly greater difficulty,[/p][/*][*][p]+50 artifacts - passive boosts unlocked at each stage of crowns - that can be selected before a run,[/p][/*][*][p]in-game events affecting the run,[/p][/*][*][p]a light detective story accompanying the player while playing,[/p][/*][*][p]meta upgrades - upgrades for groups of nodes - paid with the &quot;crystals&quot; earned in the game,[/p][/*][*][p]infinite stages after finishing the main story,[/p][/*][*][p]a lot of replayability![/p][/*][/list][h2]Demo Version Content[/h2][p]3 of 15 themed crowns along with all other content related to them (plot, artifacts, nodes etc).[/p]",
+			"app[content][short_description]": "Node Crown is a roguelite focused on building a node-based kingdom.\r\nQuick runs designed for replayability, deep synergies, hundreds of nodes, and builds that make every run unique - you will find it here! Have fun!",
+			"app[content][sysreqs][windows][min][osversion]": "Windows 7 or later",
+			"app[content][sysreqs][windows][min][processor]": "Intel Core 2 Duo E6320 (2*1866) or equivalent (no ARM)",
+			"app[content][sysreqs][windows][min][graphics]": "GeForce 7600 GS (512 MB) or equivalent"
+		},
+		"french": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"italian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"german": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"spanish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"bulgarian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"czech": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"danish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"dutch": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"finnish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"greek": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"hungarian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"indonesian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"japanese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"koreana": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"malay": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"norwegian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"polish": {
+			"app[content][about]": "[p][b]Wybierz i połóż 1 z 3 węzłów, znajdź najlepszą synergię, zbuduj swoje królestwo i wygraj![/b][/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/node-crown-gif&quot;][/img][/p][h2]Co znajdziesz w grze?[/h2][list][*][p]Około 500 węzłów z różnymi umiejętnościami, wpływającymi na pozostałe węzły. Razem z nimi, mnogość interesujących mechanik, które możesz użyć tworząc swój build,[/p][/*][*][p]15 tematycznych koron - trybów skupiających się na konkretnych &quot;frakcjach&quot; - każda z nich odblokowuje nowe mechaniki i węzły dla pozostałych koron. Mają po kilka etapów ze zwiększającym się poziomem trudności,[/p][/*][*][p]+50 artefaktów - pasywnych ulepszeń odblokowywanych po przejściu kolejnych etapów każdej z koron,[/p][/*][*][p]Zdarzenia losowe mające wpływ na rozgrywkę,[/p][/*][*][p]Lekka opowieść detektywistyczna towarzysząca Ci podczas gry,[/p][/*][*][p]Meta-ulepszenia - ulepszenia grup węzłów - opłacone kryształami zdobywanymi w trakcie gry,[/p][/*][*][p]Nieskończone etapy po zakończeniu głównej fabuły,[/p][/*][*][p]Ogromna regrywalność i mnóstwo godzin relaksującej rozgrywki![/p][/*][/list][h2]Zawartość Wersji Demo[/h2][p]Demo gry zawiera w sobie 3 tematyczne korony z 15 dostępnych w całej grze, a razem z tym całą powiązaną zawartość (węzły, fabuła, artefakty itp) dostępną dla tych 3 koron.[/p]",
+			"app[content][short_description]": "Node Crown to roguelite o budowaniu królestwa z węzłów. Krótkie, regrywalne rozgrywki, głębokie synergie, tysiące węzłów i buildy, które czynią każdą rozgrywkę unikatową.",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"brazilian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"portuguese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"romanian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"russian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"schinese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"latam": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"swedish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"thai": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"tchinese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"turkish": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"ukrainian": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		},
+		"vietnamese": {
+			"app[content][about]": "",
+			"app[content][short_description]": "",
+			"app[content][sysreqs][windows][min][osversion]": "",
+			"app[content][sysreqs][windows][min][processor]": "",
+			"app[content][sysreqs][windows][min][graphics]": ""
+		}
+	}
+}
